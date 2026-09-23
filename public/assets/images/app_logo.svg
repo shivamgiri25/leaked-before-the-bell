@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title">
+  <title>LeakedBeforeBell logo</title>
+  <rect width="160" height="160" rx="8" fill="#050505"/>
+  <rect x="50" y="8" width="94" height="144" fill="#e8edf2"/>
+  <path d="M66 53h62M66 78h62" stroke="#c4b89e" stroke-width="8"/>
+  <circle cx="60" cy="72" r="48" fill="#171717" stroke="#f5a400" stroke-width="10"/>
+  <path d="M94 106l28 28" stroke="#f5a400" stroke-width="11"/>
+  <path d="M60 32a40 40 0 0 1 0 80" fill="none" stroke="#f5a400" stroke-width="10"/>
+</svg>

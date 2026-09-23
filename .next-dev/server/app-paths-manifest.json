@@ -1,0 +1,8 @@
+{
+  "/page": "app/page.js",
+  "/login/page": "app/login/page.js",
+  "/authority-dashboard/page": "app/authority-dashboard/page.js",
+  "/upload-ingest/page": "app/upload-ingest/page.js",
+  "/authority-dashboard/incoming-requests/page": "app/authority-dashboard/incoming-requests/page.js",
+  "/authority-dashboard/evidence-review/page": "app/authority-dashboard/evidence-review/page.js"
+}

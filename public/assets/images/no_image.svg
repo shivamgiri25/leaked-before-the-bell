@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" role="img" aria-labelledby="title">
+  <title>No image available</title>
+  <rect width="500" height="500" rx="8" fill="#f5f8fb"/>
+  <path d="M0 38h500M0 76h500M0 114h500M0 152h500M0 190h500M0 228h500M0 266h500M0 304h500M0 342h500M0 380h500M0 418h500M0 456h500" stroke="#e8edf3" stroke-dasharray="1 12"/>
+  <circle cx="250" cy="250" r="88" fill="none" stroke="#c6d0dc" stroke-width="6"/>
+  <path d="M200 278l25-37 24 24 25-36 30 49z" fill="#b8c3d1"/>
+  <circle cx="270" cy="230" r="10" fill="#b8c3d1"/>
+</svg>
